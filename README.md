@@ -1,4 +1,4 @@
-# trip_application
+# flutter ui practice trip app  
 
 A new Flutter project.
 
